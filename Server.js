@@ -1,1 +1,1 @@
-console.log('This is server')
+console
